@@ -1,4 +1,5 @@
 # ps-sample-wget
+C# + PowerShell で WEBリソースをダウンロード
 Visual Studio Code で ワークスペースの encoding で Japanese(Shift JIS)
 
 | exe | ps |
