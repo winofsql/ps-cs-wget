@@ -1,6 +1,5 @@
 # ps-cs-wget
 C# + PowerShell で WEBリソースをダウンロード
-Visual Studio Code で ワークスペースの encoding で Japanese(Shift JIS)
 ## add settings.json ( Code Runner )
 ```javascript
     "code-runner.showRunIconInEditorTitleMenu": false,
