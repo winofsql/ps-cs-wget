@@ -2,10 +2,7 @@
 C# + PowerShell で WEBリソースをダウンロード
 ## add settings.json ( Code Runner )
 ```javascript
-    "code-runner.showRunIconInEditorTitleMenu": false,
-    "code-runner.executorMap": {
-        "powershell": "powershell -NoProfile -ExecutionPolicy Unrestricted"
-    }
+    "code-runner.showRunIconInEditorTitleMenu": false
 ```
 | build_wget.ps1 | run.ps1 |
 | --- | --- |
