@@ -3,7 +3,7 @@
     "code-runner.runInTerminal": true,
     "code-runner.executorMap": {
         "powershell": "powershell -NoProfile -ExecutionPolicy Unrestricted"
-    }
+    },
     "terminal.integrated.fontSize": 16,
     "files.encoding": "shiftjis"
 } 
